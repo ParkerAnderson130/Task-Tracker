@@ -1,4 +1,4 @@
-# This is my task tracker
+Task Tracker
 ## This page can:
 - Create a task
 - Remove a task or mark it as complete
